@@ -7,6 +7,7 @@
         "url": "https://github.com/ballerina-platform/ballerina-lang/blob/master/LICENSE"
     },
     "url": "https://product-dist.ballerina.io/downloads/1.2.0/ballerina-windows-installer-x64-1.2.0.msi",
+    "hash": "2daa0c2e53bab587ec1481d787204130efd113c44166f040c784a25388912ad8",
     "bin": "Ballerina\\bin\\ballerina.bat",
     "post_install": [
         "$base_path = Join-Path $dir \"Ballerina\"",
