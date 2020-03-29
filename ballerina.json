@@ -1,13 +1,12 @@
 {
-    "version": "1.1.4",
+    "version": "1.2.0",
     "description": "open source programming language and platform for cloud-era application programmers to easily write software that just works",
     "homepage": "https://ballerina.io/",
     "license": {
         "identifier": "Apache-2.0",
         "url": "https://github.com/ballerina-platform/ballerina-lang/blob/master/LICENSE"
     },
-    "url": "https://product-dist.ballerina.io/downloads/1.1.4/ballerina-windows-installer-x64-1.1.4.msi",
-    "hash": "c6d12175e1db1596a0139f25324dc2ca6f4ec61699a9ddc98fe2f219f321ba06",
+    "url": "https://product-dist.ballerina.io/downloads/1.2.0/ballerina-windows-installer-x64-1.2.0.msi",
     "bin": "Ballerina\\bin\\ballerina.bat",
     "post_install": [
         "$base_path = Join-Path $dir \"Ballerina\"",
